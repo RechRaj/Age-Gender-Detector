@@ -22,7 +22,7 @@ Age and Gender detector using Machine Learning
 
 ## Sample Outputs:
 
-1. [Sample output1](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-1.png)
-2. [Sample output2](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-2.png)
-3. [Sample output3](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-3.png)
-4. [Sample output4](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-4.png)
+ ![Sample output1](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-1.png)
+ ![Sample output2](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-2.png)
+ ![Sample output3](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-3.png)
+ ![Sample output4](https://github.com/RechRaj/Age-Gender-Detector/blob/main/Sample_output-4.png)
